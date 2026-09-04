@@ -1,0 +1,6 @@
+title: Mi Blog
+description: >-
+  un lugar para escribir, :3
+theme: minima
+plugins:
+  - jekyll-feed
