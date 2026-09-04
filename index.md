@@ -6,8 +6,5 @@ title: "Inicio"
 # Bienvenido a mi blog
 
 ¡Hola! Este es mi sitio web personal creado con GitHub Pages.
-
+Un sito donde escribo de cosas que me interesa dar mi punto de vista, investigar o simplemente son de mi agrado
 ---
-
-### Publicaciones recientes:
-* [Mi primer post]https://kristalsofia2206-svg.github.io/mi-blog/personal/2026/09/04/mi-primer-post.html
